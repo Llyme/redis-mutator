@@ -1,4 +1,6 @@
 # Redis Mutator
+[GitHub](https://github.com/Llyme/redis-mutator)
+
 Inject another Redis connection to your Redis connection!
 
 # Installation
